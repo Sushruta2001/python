@@ -13,3 +13,11 @@ if(a>0):
 
 else:
     print("The number is negative")
+
+
+
+    # output
+
+# enter the value of a 12
+# 12
+# The number is between 10 and 20
