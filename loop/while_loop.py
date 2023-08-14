@@ -33,3 +33,13 @@ while True:
   print(number)
   if not number > 0:
     break
+  
+
+#   Enter a positive number: 5
+# 5
+# Enter a positive number: 3
+# 3
+# Enter a positive number: 22
+# 22
+# Enter a positive number: 0
+# 0
