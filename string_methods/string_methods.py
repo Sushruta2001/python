@@ -54,10 +54,10 @@ str2 = "Hello world"
 print(str2.istitle())               #False. All starting doesnt have capitals
 
 str1 = "My name is Rick" 
-print(str1.startswith("My"))
+print(str1.startswith("My"))        #True. As it starts with the given character
 
-# str1 = "Python is a Interpreted Language" 
-# print(str1.swapcase())
+str1 = "My Name Is Rick" 
+print(str1.swapcase())              #mY nAME iS rICK . All uppercase changed to lowercase and viceversa.
 
-# str1 = "His name is Dan. Dan is an honest man."
-# print(str1.title())
+str1 = "My name is rick. rick loves to eat."        #My Name Is Rick. Rick Loves To Eat.  All starting changed to capitals.
+print(str1.title())
