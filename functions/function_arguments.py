@@ -16,3 +16,6 @@ def name(**name):
 
 
 name(fname="Rick", lname="Kayal")
+
+# OUTPUT
+# Hello, Rick Kayal
